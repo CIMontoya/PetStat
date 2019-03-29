@@ -3,9 +3,11 @@
 A household with multiple people and pets can be a bit disorganized. This app was created to facilitate the care of pets by allowing the pet owners to see their pet's status.
 
 ## Entity Relationship Diagram
+
 ![Entity Relationship Diagram](erd.png)
 
 ## Server Routes
+
 - Get request to access all the data of a household specified by the user
     ('/:household')
 - Get request to access all of the users in the app
@@ -30,14 +32,21 @@ A household with multiple people and pets can be a bit disorganized. This app wa
     ('activity/:id')
 
 ## Technologies
-<img src="https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh" width="40%" height:"40%" style="margin: 65px">
-<img src="https://expressjs.com/images/express-facebook-share.png" width="40%" height:"40%" style="margin: 65px">
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="40%" height:"40%" style="margin: 65px">
-<img src="https://i1.wp.com/wptavern.com/wp-content/uploads/2016/10/graphql.png?ssl=1" width="40%" height:"40%" style="margin: 65px">
-<img src="https://knexjs.org/assets/images/knex.png" width="40%" height:"40%" style="margin: 65px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="40%" height:"40%" style="margin: 65px">
-<img src="http://2ality.com/2011/10/logo-js/js.jpg" width="40%" height:"40%" style="margin: 65px">
-<img src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" width="40%" height:"40%" style="margin: 65px">
+<img src="https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh" width="25%">
+
+<img src="https://expressjs.com/images/express-facebook-share.png" width="25%">
+
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="25%">
+
+<img src="https://i1.wp.com/wptavern.com/wp-content/uploads/2016/10/graphql.png?ssl=1" width="25%">
+
+<img src="https://knexjs.org/assets/images/knex.png" width="25%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="25%">
+
+<img src="http://2ality.com/2011/10/logo-js/js.jpg" width="25%">
+
+<img src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" width="25%">
 
 ## User Stories
 
@@ -62,7 +71,9 @@ A household with multiple people and pets can be a bit disorganized. This app wa
 - As a user, I would like to log out so my data is safe if I lose my phone
 
 ## Mock Up
+
 [Adobe XD](https://xd.adobe.com/view/24a0eda8-c5c7-4ea6-7540-bebbe1860c0b-5291/)
 
 ## Trello Board
+
 [Trello](https://trello.com/b/6uBnQbyQ/petstat)

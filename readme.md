@@ -2,6 +2,7 @@
 
 #### A household with multiple people and pets can be a bit disorganized. This app was created to facilitate the care of pets by allowing the pet owners to see their pet's status.
 
+## Entity Relationship Diagram
 ![Entity Relationship Diagram](erd.png)
 
 ## Server Routes
@@ -27,14 +28,14 @@
     ('activity/:id')
 
 ## Technologies
-![React Native](https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh)
-![Express](https://expressjs.com/images/express-facebook-share.png)
-![Node](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png)
-![GraphQL](https://i1.wp.com/wptavern.com/wp-content/uploads/2016/10/graphql.png?ssl=1)
-![Knex](https://knexjs.org/assets/images/knex.png)
-![CSS & HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png)
-![Javascript](http://2ality.com/2011/10/logo-js/js.jpg)
-![Twilio](https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png)
+![React Native](https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh =250x250)
+![Express](https://expressjs.com/images/express-facebook-share.png =250x250)
+![Node](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png =250x250)
+![GraphQL](https://i1.wp.com/wptavern.com/wp-content/uploads/2016/10/graphql.png?ssl=1 =250x250)
+![Knex](https://knexjs.org/assets/images/knex.png =250x250)
+![CSS & HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png =250x250)
+![Javascript](http://2ality.com/2011/10/logo-js/js.jpg =250x250)
+![Twilio](https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png =250x250)
 
 ##User Stories
 1. As a user, I would like to create a house so I can contain all the pets and caretaker info

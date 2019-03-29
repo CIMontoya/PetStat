@@ -32,21 +32,27 @@ A household with multiple people and pets can be a bit disorganized. This app wa
     ('activity/:id')
 
 ## Technologies
-<img src="https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh" width="25%">
+<img src="https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh" width="25%"> &nbsp;&nbsp;
+[React Native](https://facebook.github.io/react-native/)
 
-<img src="https://expressjs.com/images/express-facebook-share.png" width="25%">
+<img src="https://expressjs.com/images/express-facebook-share.png" width="25%"> &nbsp;&nbsp;
+[Express](https://expressjs.com/)
 
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="25%">
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="25%"> &nbsp;&nbsp;
+[NodeJS](https://nodejs.org/en/)
 
-<img src="https://i1.wp.com/wptavern.com/wp-content/uploads/2016/10/graphql.png?ssl=1" width="25%">
+<img src="https://i1.wp.com/wptavern.com/wp-content/uploads/2016/10/graphql.png?ssl=1" width="25%"> &nbsp;&nbsp;
+[GraphQL](https://graphql.org/)
 
-<img src="https://knexjs.org/assets/images/knex.png" width="25%">
+<img src="https://knexjs.org/assets/images/knex.png" width="25%"> &nbsp;&nbsp;
+[Knex](https://knexjs.org/)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="25%">
 
 <img src="http://2ality.com/2011/10/logo-js/js.jpg" width="25%">
 
-<img src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" width="25%">
+<img src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" width="25%"> &nbsp;&nbsp;
+[Twilio](https://www.twilio.com/)
 
 ## User Stories
 

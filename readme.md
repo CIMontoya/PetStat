@@ -4,7 +4,7 @@ A household with multiple people and pets can be a bit disorganized. This app wa
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](erd.png)
+![Entity Relationship Diagram](./public/erd.png)
 
 ## Server Routes
 

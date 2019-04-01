@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   sigUpText: {
     color:'#000',
     textAlign:'center',
-    marginTop: '9%',
+    marginTop: '10%',
     fontSize: 30
   },
   logIn: {
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   logInText: {
     color:'#FFF',
     textAlign:'center',
-    marginTop: '9%',
+    marginTop: '10%',
     fontSize: 30
   },
   p: {

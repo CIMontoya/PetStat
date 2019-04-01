@@ -4,6 +4,10 @@ const styles = require('./style');
 
 type Props = {};
 export default class App extends Component<Props> {
+
+  componentDidMount() {
+  }
+
   render() {
     return (
       <View style={styles.container}>

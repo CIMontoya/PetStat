@@ -1,0 +1,3 @@
+rootProject.name = 'petStat'
+
+include ':app'

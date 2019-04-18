@@ -8,8 +8,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "apollo-client": "^2.5.1",
+    "graphql": "^14.2.1",
+    "graphql-tag": "^2.10.1",
     "react": "16.8.3",
-    "react-native": "0.59.3"
+    "react-apollo": "^2.5.3",
+    "react-native": "0.59.3",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-router-flux": "^4.0.6"
   },
   "devDependencies": {
     "@babel/core": "7.4.0",

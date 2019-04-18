@@ -2,6 +2,9 @@
 
 A household with multiple people and pets can be a bit disorganized. This app was created to facilitate the care of pets by allowing the pet owners to see their pet's status.
 
+## Backend
+[https://github.com/CIMontoya/petstat-backend](https://github.com/CIMontoya/petstat-backend)
+
 ## Entity Relationship Diagram
 
 ![Entity Relationship Diagram](./public/erd.png)
